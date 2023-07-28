@@ -5,7 +5,7 @@
 #    exit 0
 #fi
 
-# Linux build
+# Linux 22.04 build
 
 make distclean || echo clean
 
